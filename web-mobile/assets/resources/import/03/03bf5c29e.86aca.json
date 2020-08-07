@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"twinkle","texture":"69cCGdwXpHtqLHZKzH+R2n","rect":[1,1,29,29],"offset":[-0.5,0.5],"originalSize":[32,32],"capInsets":[0,0,0,0]}},{"__type__":"cc.ParticleAsset","_name":"twinkle","_native":".plist","spriteFrame":{"__uuid__":"38NIKHjKNCE55rb46Ehbv6"}}]
